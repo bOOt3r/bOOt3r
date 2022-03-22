@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Object Oriented Programming with a specialization in artificial intelligence.
-- 📫 You can reach me over here: [No! Here!](https://www.linkedin.com/in/jonathan-lim%C3%A9n-74524686/ "My Linkedin page!")
+- 📫 You can reach me over here: [No! Here!](https://www.linkedin.com/in/b00t3r "My Linkedin page!")
 
 <!--
 **bOOt3r/bOOt3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
